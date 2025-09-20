@@ -22,6 +22,9 @@ This app helps users manage their daily tasks efficiently.
 - CSS (manual styling)  
 
 ---
+**## Preview**
+
+<img width="790" height="319" alt="todo" src="https://github.com/user-attachments/assets/c6129bb3-c50b-4b76-b5d8-f1138c4ca539" />
 
 ## 🚀 Getting Started
 
